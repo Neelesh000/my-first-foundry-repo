@@ -3,4 +3,8 @@ src = "src"
 out = "out"
 libs = ["lib"]
 
+[dependencies]
+forge-std = "0.8.28" # Use the appropriate version number for forge-std
+
+
 # See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
